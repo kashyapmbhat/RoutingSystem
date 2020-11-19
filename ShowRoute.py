@@ -10,7 +10,7 @@ import json
 import smopy
 import matplotlib.pyplot as plt
 from geopy.geocoders import Nominatim
-%matplotlib inline
+
 
 
 
